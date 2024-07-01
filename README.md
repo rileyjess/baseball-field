@@ -12,11 +12,21 @@ Acceptance Criteria:
 - A concise, descriptive title
 
 Completed Tasks:
-- Included semantic HTML elements
+- Added semantic HTML elements
 - Edited HTML elements to follow a logical structure
 - Added alt attributes to images
 - Ensured heading attributes fall in sequential order
 - Created a concise, descriptive title
+- Consolidated CSS selectors and properties
+- Reorganized CSS file to follow the same semantic structure as the HTML
+
+## Website Screenshot
+
+!(Horiseon Website Screenshot.png)
+
+## Deployed Website
+
+https://rileyjess.github.io/module-1-challenge/
 
 ## Credits
 
