@@ -22,7 +22,7 @@ Completed Tasks:
 
 ## Website Screenshot
 
-!(Horiseon Website Screenshot.png)
+![image](https://github.com/user-attachments/assets/d1483c9d-a9e2-40da-bbde-b92ce1d20c0d)
 
 ## Deployed Website
 
